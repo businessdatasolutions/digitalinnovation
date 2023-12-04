@@ -1,3 +1,2 @@
 .venv
-ebook/_build/.doctrees
-ebook/_build/jupyter_execute
+ebook/_build/*
